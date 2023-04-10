@@ -1,6 +1,5 @@
 body {
-  background-image: url("https://t3.ftcdn.net/jpg/04/35/49/62/360_F_435496252_Q117s1v2ifaBpzETaDaZhdRvVRXXVQAl.jpg");
-  background-repeat: repeat;
+  background: url("https://t3.ftcdn.net/jpg/04/35/49/62/360_F_435496252_Q117s1v2ifaBpzETaDaZhdRvVRXXVQAl.jpg");
   background-size: cover;
   color: white;
   font-family: sans-serif;
