@@ -35,9 +35,9 @@ Hi, my name is John Doe and I'm a software engineer.
 
 Here's some code that shows how I built this project:
 
-```python
-def my_function():
-    print("Hello, world!")
+```java
+public static void main(String[] args)
+    System.out.println("Hello, world!");
 ```
     
 
