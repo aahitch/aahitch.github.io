@@ -45,7 +45,4 @@ public static void main(String[] args)
   
  
 </div>
-    
-
-<script src="script.js"></script>
 
