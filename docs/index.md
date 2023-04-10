@@ -31,7 +31,7 @@ Hi, my name is John Doe and I'm a software engineer.
 
 > "This project is the best thing I've ever created." - John Doe
 
-> ![Project screenshot](./docs/images/background.jpeg "Project screenshot")
+> ![Project screenshot](./images/background.jpeg "Project screenshot")
 
 Here's some code that shows how I built this project:
 
