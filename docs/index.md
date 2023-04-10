@@ -35,7 +35,7 @@ Hi, my name is John Doe and I'm a software engineer.
 
 Here's some code that shows how I built this project:
 
-<div style = "background-color: rgb(50,50,50);">
+<div style = "background-color: rgb(255,50,50);">
 
   
 ```java
