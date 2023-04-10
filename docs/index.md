@@ -1,27 +1,30 @@
----
-title: "My website"
-output: 
-  html_document:
-    toc: FALSE
----
+# My Super Nice Markdown Page
 
+## About Me
 
+Hi, my name is John Doe and I'm a software engineer.
 
+## My Skills
 
-**Welcome to my website!**
+- Programming languages: 
+  - Python
+  - Java
+  - C++
+- Web development:
+  - HTML/CSS
+  - JavaScript
+  - React
 
+## My Projects
 
-# Getting started
+### Project 1: My Awesome Project
 
-Click the links in the menu above to look around.
+> "This project is the best thing I've ever created." - John Doe
 
+<!-- ![Project screenshot](./images/project-screenshot.png "Project screenshot") -->
 
-# Notes
+Here's some code that shows how I built this project:
 
-This website is a collection of regular (R)Markdown document, so you can use all the usual formatting.
-
-If you are new to R Markdown, you can learn more about it [on the R Markdown website](https://rmarkdown.rstudio.com/). 
-
-I also have a discussion of R Markdown and reproducibility [on one of my course pages](https://andreashandel.github.io/MADAcourse/1e_ToolsforReproducibility.html). You'll find additional links to potentially useful R Markdown (and Github) resources there.
-
-
+```python
+def my_function():
+    print("Hello, world!")
