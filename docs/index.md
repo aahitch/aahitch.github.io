@@ -8,7 +8,7 @@
 
 ## About Me
 
-Hi, my name is John Doe and I'm a software engineer.
+Hi, my name is Aadam Hitchens
 
 
 <button onclick="changeBackgroundColor()">Change Background Color</button>
@@ -17,19 +17,19 @@ Hi, my name is John Doe and I'm a software engineer.
 ## My Skills
 
 - Programming languages: 
-  - Python
+  - C#
   - Java
-  - C++
+  - Python
 - Web development:
   - HTML/CSS
   - JavaScript
-  - React
+  - php
 
 ## My Projects
 
 ### Project 1: My Awesome Project
 
-> "This project is the best thing I've ever created." - John Doe
+> "This project is the best thing I've ever created." - Person
 
 > ![Project screenshot](./images/background.jpeg "Project screenshot")
 
