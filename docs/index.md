@@ -40,7 +40,7 @@ Here's some code that shows how I built this project:
   
 ```java
 public static void main(String[] args)
-    System.out.println("Hello, world!");
+    System.out.println("Hello, world!")
 ```
   
  
