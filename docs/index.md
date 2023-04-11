@@ -35,14 +35,11 @@ Hi, my name is Aadam Hitchens
 
 Here's some code that shows how I built this project:
 
-<div style = "background-color:gray;">
 
   
 ```java
 public static void main(String[] args)
     System.out.println("Hello, world!")
 ```
-  
  
-</div>
 
